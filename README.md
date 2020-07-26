@@ -1,6 +1,6 @@
 # Unreal Project
 
-**Please pay attention : This project is too heavy to be load on *GITHUB***
+**Warning : This project is too heavy to be load on *GITHUB***
 
 **The project can be found [here](https://gitlab.com/Arnaud58/populous-unreal-game) on *[gitlab](https://gitlab.com/Arnaud58/populous-unreal-game)***
 
