@@ -1,8 +1,8 @@
 # Unreal Project
 
-**Warning : This project is too heavy to be load on *GITHUB***
+**Please pay attention : This project is too heavy to be load on *GITHUB***
 
-**The project can be found [here](https://gitlab.com/Arnaud58/populous-unreal-game) on [gitlab](https://gitlab.com/Arnaud58/populous-unreal-game)**
+**The project can be found [here](https://gitlab.com/Arnaud58/populous-unreal-game) on *[gitlab](https://gitlab.com/Arnaud58/populous-unreal-game)***
 
 This project is a small test for the creation of a game inspired by *[Populous: The beginning](https://en.wikipedia.org/wiki/Populous%3A_The_Beginning)*.
 
